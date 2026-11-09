@@ -1,8 +1,8 @@
-# Hey, I'm Gijs 👋
+# Hi, I'm Gijs 👋
 
 **HBO-ICT student @ Fontys | Cyber Security enthusiast | CTF player**
 
-I'm a student from Eindhoven (NL) with a strong interest in offensive security and CTFs. On this GitHub I share write-ups, tools and lab projects from my journey in cyber security.
+I'm a student from Eindhoven (NL) with a strong interest in offensive security, hardware hacking and CTFs. On my blog and GitHub I share write-ups, tools and lab projects from my journey in cyber security.
 
 ---
 
@@ -10,16 +10,17 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security a
 
 | Event | Result |
 |---|---|
-| **Skills The Finals 2026 – Cyber Security** (WorldSkills Netherlands) | Top 4 of the Netherlands – offensive, defensive & forensics |
+| **Skills The Finals 2026 – Cyber Security** (WorldSkills Netherlands) | 🏅 Top 4 of the Netherlands – offensive, defensive & forensics |
 | **Challenge The Cyber – Bughunt CTF** (Junior) | 4th place + podium mention |
 | **Challenge The Cyber – CyberBootCamp 2026** | Selected based on CTF performance |
 
 ## 📜 Certifications
-  - Fortinet Certified Associate Cybersecurity · FortiGate 7.6 Operator
-  - TryHackMe Cyber Security 101 (SEC1) · Pre Security (SEC0)
-  - Cisco Introduction to Cybersecurity
-  
-  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gijs-van-den-acker/badges)
+
+- Fortinet Certified Associate Cybersecurity · FortiGate 7.6 Operator
+- TryHackMe Cyber Security 101 (SEC1) · Pre Security (SEC0)
+- Cisco Introduction to Cybersecurity
+
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gijs-van-den-acker/badges)
 
 ## 🔐 What I've worked on
 
@@ -43,7 +44,7 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security a
 
 I write about CTFs, wargames and what I learn in cyber security on my blog:
 
-[![Blog](https://img.shields.io/badge/Blog-sergeantachron.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://sergeantachron.github.io)
+[![Blog](https://img.shields.io/badge/Blog-gijsvandenacker.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://gijsvandenacker.github.io)
 
 ## 🎓 Education
 
@@ -54,6 +55,7 @@ I write about CTFs, wargames and what I learn in cyber security on my blog:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gijs-van-den-acker/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gijs.vda.security@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://gijsvandenacker.github.io)
 
 ---
 
