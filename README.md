@@ -39,11 +39,11 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security a
 
 `nmap` · `binwalk` · `Ghidra` · `John the Ripper` · `Hashcat` · `UART/serial tooling`
 
-## 📂 Featured repositories
+## ✍️ Blog
 
-| Repo | Description |
-|---|---|
-| [ctf-writeups](https://github.com/SergeantAchron/ctf-writeups) | Write-ups of CTFs, wargames and practice machines |
+I write about CTFs, wargames and what I learn in cyber security on my blog:
+
+[![Blog](https://img.shields.io/badge/Blog-sergeantachron.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://sergeantachron.github.io)
 
 ## 🎓 Education
 
