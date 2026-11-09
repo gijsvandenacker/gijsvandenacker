@@ -14,6 +14,13 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security a
 | **Challenge The Cyber – Bughunt CTF** (Junior) | 4th place + podium mention |
 | **Challenge The Cyber – CyberBootCamp 2026** | Selected based on CTF performance |
 
+## 📜 Certifications
+  - Fortinet Certified Associate Cybersecurity · FortiGate 7.6 Operator
+  - TryHackMe Cyber Security 101 (SEC1) · Pre Security (SEC0)
+  - Cisco Introduction to Cybersecurity
+  
+  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gijs-van-den-acker/badges)
+
 ## 🔐 What I've worked on
 
 - **Hardware hacking** – IoT device exploitation via UART, firmware extraction & analysis
