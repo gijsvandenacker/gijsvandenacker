@@ -25,7 +25,8 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security, 
 
 ## 🎯 Platforms
 
-   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SergeantAchron)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SergeantAchron)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/4203984)
 
 ## 🔐 What I've worked on
 
