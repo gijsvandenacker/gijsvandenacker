@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Gijs 👋
 
-<!--
-**SergeantAchron/SergeantAchron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HBO-ICT student @ Fontys | Cyber Security enthusiast | CTF player**
 
-Here are some ideas to get you started:
+I'm a student from Eindhoven (NL) with a strong interest in offensive security and CTFs. On this GitHub I share write-ups, tools and lab projects from my journey in cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Achievements
+
+| Event | Result |
+|---|---|
+| **Skills The Finals 2026 – Cyber Security** (WorldSkills Netherlands) | Top 4 of the Netherlands – offensive, defensive & forensics |
+| **Challenge The Cyber – Bughunt CTF** (Junior) | 4th place + podium mention |
+| **Challenge The Cyber – CyberBootCamp 2026** | Selected based on CTF performance |
+
+## 🔐 What I've worked on
+
+- **Hardware hacking** – IoT device exploitation via UART, firmware extraction & analysis
+- **Web security** – XSS, JWT token attacks
+- **CTFs** – Jeopardy and Attack & Defense
+- **AI hacking** – prompt injection & LLM security basics
+- **Forensics** – incident investigation during Skills competitions
+
+## 🛠️ Tools & Tech
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+`nmap` · `binwalk` · `Ghidra` · `John the Ripper` · `Hashcat` · `UART/serial tooling`
+
+## 🎓 Education
+
+- **HBO-ICT** – Fontys Hogeschool *(current)*
+- **MBO 4 – Expert IT Systems & Devices** – Summa ICT *(graduated)*
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gijs-van-den-acker/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gijs.vda.security@gmail.com)
+
+---
+
+> *All security work shared here was done on my own devices, legal practice platforms, or with permission.*
