@@ -22,6 +22,11 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security, 
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gijs-van-den-acker/badges)
 
+
+## 🎯 Platforms
+
+   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SergeantAchron)
+
 ## 🔐 What I've worked on
 
 - **Hardware hacking** – IoT device exploitation via UART, firmware extraction & analysis
