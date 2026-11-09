@@ -32,6 +32,12 @@ I'm a student from Eindhoven (NL) with a strong interest in offensive security a
 
 `nmap` · `binwalk` · `Ghidra` · `John the Ripper` · `Hashcat` · `UART/serial tooling`
 
+## 📂 Featured repositories
+
+| Repo | Description |
+|---|---|
+| [ctf-writeups](https://github.com/SergeantAchron/ctf-writeups) | Write-ups of CTFs, wargames and practice machines |
+
 ## 🎓 Education
 
 - **HBO-ICT** – Fontys Hogeschool *(current)*
